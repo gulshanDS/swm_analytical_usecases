@@ -3,6 +3,16 @@
 NDMC SWM Analytics 2.x Use Cases
 
 
+### Contains the code repo for below two usecases for ndmc 2.x deployment. 
+
+
+* bin fill frequency forecast
+
+
+* predominant waste forecast
+
+
+
 *Stake Holders:*
 
 * [Rajiv](rajiv.v@quantela.com)
