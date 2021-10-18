@@ -12,6 +12,8 @@ NDMC SWM Analytics 2.x Use Cases
 * predominant waste forecast
 
 
+#### [Duplicate of this Repo in DataModels](https://github.com/paradigmC/datamodels/tree/ndmc-new-analytics-2x-usecases)
+
 
 *Stake Holders:*
 
